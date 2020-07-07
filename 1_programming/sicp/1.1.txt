@@ -1,0 +1,15 @@
+#SICP Exercise 1.1 Solution
+
+a.) 10
+b.) 12
+c.) 8
+d.) 3
+e.) 6
+f.) a
+g.) b
+h.) 19
+i.) #f (false)
+j.) 4 
+k.) 16
+l.) 6
+m.) 16
