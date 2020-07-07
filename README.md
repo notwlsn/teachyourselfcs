@@ -7,7 +7,7 @@ Best book: *Structure and Interpretation of Computer Programs*<br>
 Best video lecture: Brian Harvey’s Berkeley CS 61A<br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;**Week 1-2 Links:** Programming<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Structure_and_Interpretation_of_Computer_Programs.pdf (https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) { Drive > cyber > Books }<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Structure_and_Interpretation_of_Computer_Programs.pdf (https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Brian Harvey's Berkley CS 61A: (https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**Homework:**<br>
