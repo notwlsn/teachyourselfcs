@@ -1,8 +1,5 @@
 **Project Study Plan for Learning CS:** (https://teachyourselfcs.com)
 
-**#TODO**<br>
-- Finish and include Zotero export which has all extension material and better resource categorization
-
 **Methodology**: Study all nine subjects below, in roughly the presented order, using either the suggested textbook or video lecture series, but ideally both. Aim for 100-200 hours of study of each topic, then revisit.
 
 **Week 1-2:** Programming (https://teachyourselfcs.com/#programming)<br>
@@ -40,3 +37,7 @@ Best video lecture: Alex Aiken’s course on edX; AQ: :negative_squared_cross_ma
 **Week 10-11:** Distributed Systems (https://teachyourselfcs.com/#distributed-systems)<br>
 Best book: *Designing Data-Intensive Applications* by Martin Kleppmann; AQ: :negative_squared_cross_mark:<br>
 Best video lecture: MIT 6.824; AQ: :negative_squared_cross_mark:<br>
+
+**#TODO**<br>
+- Finish and include Zotero export which has all extension material and better resource categorization
+
