@@ -1,10 +1,18 @@
 **Project Study Plan for Learning CS:** (https://teachyourselfcs.com)
 
-**Methodology**: Study all nine subjects below, in roughly the presented order, using either the suggested textbook or video lecture series, but ideally both. Aim for 100-200 hours of study of each topic, then revisit.
+**Methodology**: Study all nine subjects below, in roughly the presented order, using either the suggested textbook or video lecture series, but ideally both. Aim for 100-200 hours of study of each topic, then revisit. The week resources are the general outline, and the indented material is what I actually used as I was working through this.
 
 **Week 1-2:** Programming (https://teachyourselfcs.com/#programming)<br>
 Best book: *Structure and Interpretation of Computer Programs*; AQ: :white_check_mark:<br>
 Best video lecture: Brian Harvey’s Berkeley CS 61A; AQ: :white_check_mark:<br>
+<br>
+&nbsp;&nbsp;**Week 1-2 Links:** Programming<br>
+&nbsp;&nbsp;Structure_and_Interpretation_of_Computer_Programs.pdf (https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) { Drive > cyber > Books }<br>
+&nbsp;&nbsp;Brian Harvey's Berkley CS 61A: (https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E)<br>
+&nbsp;&nbsp;<br>
+&nbsp;&nbsp;**Homework:**<br>
+&nbsp;&nbsp;GitHub repo for HW/solutions: (https://github.com/fgalassi/cs61a-sp11)<br>
+&nbsp;&nbsp;Online Scheme interpreter: (https://code.cs61a.org/)<br>
 <br>
 **Week 3-4:** Computer Architecture (https://teachyourselfcs.com/#architecture)<br>
 Best book: *Computer Systems: A Programmer's Perspective*; AQ: :negative_squared_cross_mark: <br>
