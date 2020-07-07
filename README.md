@@ -3,8 +3,8 @@
 **Methodology**: Study all nine subjects below, in roughly the presented order, using either the suggested textbook or video lecture series, but ideally both. Aim for 100-200 hours of study of each topic, then revisit.
 
 **Week 1-2:** Programming (https://teachyourselfcs.com/#programming)<br>
-Best book: *Structure and Interpretation of Computer Programs*; AQ: :ballot_box_with_check:<br>
-Best video lecture: Brian Harvey’s Berkeley CS 61A; AQ: :ballot_box_with_check: <br>
+Best book: *Structure and Interpretation of Computer Programs*; AQ: :white_check_mark:<br>
+Best video lecture: Brian Harvey’s Berkeley CS 61A; AQ: :white_check_mark:<br>
 <br>
 **Week 3-4:** Computer Architecture (https://teachyourselfcs.com/#architecture)<br>
 Best book: *Computer Systems: A Programmer's Perspective*; AQ: :negative_squared_cross_mark: <br>
