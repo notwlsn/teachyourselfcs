@@ -47,5 +47,5 @@ Best book: *Designing Data-Intensive Applications* by Martin Kleppmann<br>
 Best video lecture: MIT 6.824<br>
 
 **#TODO**<br>
-- Finish and include Zotero export which has all extension material and better resource categorization
+~~ - Finish and include Zotero export which has all extension material and better resource categorization~~
 
