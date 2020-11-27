@@ -1,0 +1,331 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/">
+    <bib:Document rdf:about="#item_1">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog></z:Blog>
+        </dcterms:isPartOf>
+        <dc:title>https://teachyourselfcs.com/</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="#item_2">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog></z:Blog>
+        </dcterms:isPartOf>
+        <dc:subject>course-link</dc:subject>
+        <dc:title>https://teachyourselfcs.com/#programming</dc:title>
+    </bib:Document>
+    <bib:Book rdf:about="https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html">
+        <z:itemType>book</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Abelson</foaf:surname>
+                        <foaf:givenName>Harold</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gay Sussman</foaf:surname>
+                        <foaf:givenName>Gerald</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sussman</foaf:surname>
+                        <foaf:givenName>Julie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_11"/>
+        <dc:subject>course-text</dc:subject>
+        <dc:subject>core</dc:subject>
+        <dc:title>Structure and Interpretation of Computer Programs</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_11">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/11/Abelson et al. - Structure and Interpretation of Computer Programs.pdf"/>
+        <dc:title>Abelson et al. - Structure and Interpretation of Computer Programs.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Recording rdf:about="https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter">
+        <z:itemType>videoRecording</z:itemType>
+        <z:directors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Harvey</foaf:surname>
+                        <foaf:givenName>Brian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:directors>
+        <dc:subject>course-lecture</dc:subject>
+        <dc:subject>core</dc:subject>
+        <dc:title>Brian Harvey’s SICP lectures - CS61A</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Recording>
+    <bib:Recording rdf:about="#item_5">
+        <z:itemType>videoRecording</z:itemType>
+        <z:directors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>DeNero</foaf:surname>
+                        <foaf:givenName>John</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:directors>
+        <dc:subject>alternative</dc:subject>
+        <dc:title>CS 61A - John DeNero (Python)</dc:title>
+    </bib:Recording>
+    <bib:Book rdf:about="https://composingprograms.com/">
+        <z:itemType>book</z:itemType>
+        <dc:subject>alternative</dc:subject>
+        <dc:title>Composing Programs</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://composingprograms.com/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Book>
+    <bib:Document rdf:about="https://cs61a.org/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:subject>alternative</dc:subject>
+        <dc:title>CS 61A Course Online</dc:title>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>https://cs61a.org/</rdf:value></dcterms:URI>
+        </dc:identifier>
+    </bib:Document>
+    <bib:Document rdf:about="#item_8">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog></z:Blog>
+        </dcterms:isPartOf>
+        <dc:subject>course-link</dc:subject>
+        <dc:title>https://teachyourselfcs.com/#architecture</dc:title>
+    </bib:Document>
+    <bib:Book rdf:about="http://guanzhou.pub/files/Computer%20System_EN.pdf">
+        <z:itemType>book</z:itemType>
+        <link:link rdf:resource="#item_10"/>
+        <dc:subject>course-text</dc:subject>
+        <dc:subject>core</dc:subject>
+        <dc:title>Computer Systems: A Programmer's Perspective</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://guanzhou.pub/files/Computer%20System_EN.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_10">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/10/Computer Systems A Programmer's Perspective.pdf"/>
+        <dc:title>Computer Systems A Programmer's Perspective.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_12">
+        <z:itemType>book</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hennessy</foaf:surname>
+                        <foaf:givenName>John L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Patterson</foaf:surname>
+                        <foaf:givenName>David A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_13"/>
+        <dc:subject>alternative</dc:subject>
+        <dc:title>Computer Architecture: A Quantitative Approach</dc:title>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_13">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/13/Hennessy and Patterson - Computer Architecture A Quantitative Approach.pdf"/>
+        <dc:title>Hennessy and Patterson - Computer Architecture A Quantitative Approach.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="http://f.javier.io/rep/books/The%20Elements%20of%20Computing%20Systems.pdf">
+        <z:itemType>book</z:itemType>
+        <link:link rdf:resource="#item_15"/>
+        <dc:subject>extension</dc:subject>
+        <dc:title>The Elements of Computing Systems</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://f.javier.io/rep/books/The%20Elements%20of%20Computing%20Systems.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_15">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/15/The Elements of Computing Systems.pdf"/>
+        <dc:title>The Elements of Computing Systems.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.nand2tetris.org/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dcterms:isReferencedBy rdf:resource="#item_17"/>
+        <dc:subject>extension</dc:subject>
+        <dc:subject>lab</dc:subject>
+        <dc:title>Nand2Tetris Labs</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.nand2tetris.org/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Document>
+    <bib:Memo rdf:about="#item_17">
+        <rdf:value>&lt;p&gt;Goes with &quot;&lt;em&gt;The Elements of Computing Systems&lt;/em&gt;&quot; book.&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Recording rdf:about="https://inst.eecs.berkeley.edu//~cs61c/sp15/">
+        <z:itemType>videoRecording</z:itemType>
+        <dc:subject>course-lecture</dc:subject>
+        <dc:subject>core</dc:subject>
+        <dc:title>Great Ideas in Computer Architecture (Berkley CS 61C)</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://inst.eecs.berkeley.edu//~cs61c/sp15/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Recording>
+    <bib:Book rdf:about="https://ict.iitk.ac.in/wp-content/uploads/CS422-Computer-Architecture-ComputerOrganizationAndDesign5thEdition2014.pdf">
+        <z:itemType>book</z:itemType>
+        <link:link rdf:resource="#item_21"/>
+        <dc:subject>extension</dc:subject>
+        <dc:title>Computer Organization and Design MIPS Edition: The Hardware/Software Interface</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ict.iitk.ac.in/wp-content/uploads/CS422-Computer-Architecture-ComputerOrganizationAndDesign5thEdition2014.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_21">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/21/Computer Organization and Design MIPS Edition The.pdf"/>
+        <dc:title>Computer Organization and Design MIPS Edition The.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_22">
+        <z:itemType>book</z:itemType>
+        <link:link rdf:resource="#item_23"/>
+        <dc:subject>alternative</dc:subject>
+        <dc:title>Modern Operating Systems</dc:title>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_23">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/23/Modern Operating Systems.pdf"/>
+        <dc:title>Modern Operating Systems.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_24">
+        <z:itemType>book</z:itemType>
+        <link:link rdf:resource="#item_25"/>
+        <dc:subject>alternative</dc:subject>
+        <dc:title>Operating System Concepts, 8th Edition</dc:title>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_25">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/25/Operating System Concepts 8th Edition.pdf"/>
+        <dc:title>Operating System Concepts 8th Edition.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="http://pages.cs.wisc.edu/~remzi/OSTEP/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:subject>course-text</dc:subject>
+        <dc:title>Operating Systems: Three Easy Pieces</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://pages.cs.wisc.edu/~remzi/OSTEP/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Document>
+    <bib:Document rdf:about="#item_27">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog></z:Blog>
+        </dcterms:isPartOf>
+        <dc:subject>course-link</dc:subject>
+        <dc:title>https://teachyourselfcs.com/#operating-systems</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="https://pdos.csail.mit.edu/6.828/2016/xv6.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:subject>extension</dc:subject>
+        <dc:subject>lab</dc:subject>
+        <dc:title>Lab1 - Xv6, a simple Unix-like teaching operating system</dc:title>
+        <dcterms:abstract>http://pages.cs.wisc.edu/~remzi/OSTEP/lab-projects-xv6.pdf</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pdos.csail.mit.edu/6.828/2016/xv6.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Document>
+    <z:Collection rdf:about="#collection_2">
+        <dc:title>W1 - Programming</dc:title>
+        <dcterms:hasPart rdf:resource="#item_2"/>
+        <dcterms:hasPart rdf:resource="https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html"/>
+        <dcterms:hasPart rdf:resource="https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter"/>
+        <dcterms:hasPart rdf:resource="#item_5"/>
+        <dcterms:hasPart rdf:resource="https://composingprograms.com/"/>
+        <dcterms:hasPart rdf:resource="https://cs61a.org/"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_3">
+        <dc:title>W2 - Computer Architecture</dc:title>
+        <dcterms:hasPart rdf:resource="#item_8"/>
+        <dcterms:hasPart rdf:resource="http://guanzhou.pub/files/Computer%20System_EN.pdf"/>
+        <dcterms:hasPart rdf:resource="#item_12"/>
+        <dcterms:hasPart rdf:resource="http://f.javier.io/rep/books/The%20Elements%20of%20Computing%20Systems.pdf"/>
+        <dcterms:hasPart rdf:resource="https://www.nand2tetris.org/"/>
+        <dcterms:hasPart rdf:resource="https://inst.eecs.berkeley.edu//~cs61c/sp15/"/>
+        <dcterms:hasPart rdf:resource="https://ict.iitk.ac.in/wp-content/uploads/CS422-Computer-Architecture-ComputerOrganizationAndDesign5thEdition2014.pdf"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_4">
+       <dc:title>W3 - Algorithms and Data Structures</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_6">
+       <dc:title>W4 - Mathematics for Computer Science</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_5">
+        <dc:title>W5 - Operating Systems</dc:title>
+        <dcterms:hasPart rdf:resource="#item_22"/>
+        <dcterms:hasPart rdf:resource="#item_24"/>
+        <dcterms:hasPart rdf:resource="http://pages.cs.wisc.edu/~remzi/OSTEP/"/>
+        <dcterms:hasPart rdf:resource="#item_27"/>
+        <dcterms:hasPart rdf:resource="https://pdos.csail.mit.edu/6.828/2016/xv6.html"/>
+    </z:Collection>
+</rdf:RDF>
